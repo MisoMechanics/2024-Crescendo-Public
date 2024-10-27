@@ -1,0 +1,27 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Robot/autoChooser": "String Chooser",
+      "/Robot/field": "Field2d",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/navX-Sensor[4]": "Gyro"
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "Robot": {
+        "open": true
+      },
+      "Shuffleboard": {
+        "open": true
+      },
+      "SmartDashboard": {
+        "open": true
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
